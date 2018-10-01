@@ -1,0 +1,27 @@
+:root{
+  background-color: gray;
+
+  }
+  .history{
+  margin: 10px;
+  background-color: grey
+}
+
+.adjust{
+  margin-left: 25%;
+  margin-right: 25%;
+
+  /* align-self: center; */
+  /* position: relative; */
+  /* padding:20px 0 20px 0; */
+}
+
+.heading{
+  color:red;
+font-style: italic;
+
+}
+
+.paragraph{
+  color: blue;
+}
